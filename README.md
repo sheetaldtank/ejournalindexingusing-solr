@@ -233,15 +233,6 @@ Unknown operation for the an atomic update: query
  └── js/
 ```
 
----
-
-## 🔮 Future Enhancements
-
-* 🔠 Autocomplete (typeahead search)
-* 📊 Result highlighting
-* 🔄 Sorting options (A–Z / relevance)
-* 🧠 Spellcheck (“Did you mean”)
-* 📈 Usage analytics
 
 ---
 
